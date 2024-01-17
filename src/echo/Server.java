@@ -30,7 +30,6 @@ public class Server {
 			Thread thread = new ServerThread(socket);
 			thread.start();
 			
-		
 		}
 	
 		/*
